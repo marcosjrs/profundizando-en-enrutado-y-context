@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import './App.css';
-import { AppRouter } from './AppRouter/AppRouter';
+import { AppRouter } from '../routers/AppRouter/AppRouter';
 import { UserContext } from './UserContext/UserContext';
 
 function App() {

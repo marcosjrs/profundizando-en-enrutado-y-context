@@ -3,10 +3,10 @@ import {
   Routes,
   Route
 } from "react-router-dom";
-import { AboutScreen } from '../AboutScreen/AboutScreen'
-import { HomeScreen } from '../HomeScreen/HomeScreen'
-import { LoginScreen } from '../LoginScreen/LoginScreen'
-import { NavBar } from '../NavBar/NavBar'
+import { AboutScreen } from '../../components/AboutScreen/AboutScreen'
+import { HomeScreen } from '../../components/HomeScreen/HomeScreen'
+import { LoginScreen } from '../../components/LoginScreen/LoginScreen'
+import { NavBar } from '../../components/NavBar/NavBar'
 
 export const AppRouter = () => {
   return (
